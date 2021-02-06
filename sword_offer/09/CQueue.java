@@ -1,10 +1,7 @@
 /**
  * Project: lc-solution
  * File created at 2021/2/4 23:49
- * Copyright (c) 2018 linklogis.com all rights reserved.
  */
-package sword_offer.cqueue;
-
 import java.util.Stack;
 
 /**

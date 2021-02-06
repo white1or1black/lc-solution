@@ -1,2 +1,2 @@
 # lc-solution
-#ok
+# leetcode 题解
